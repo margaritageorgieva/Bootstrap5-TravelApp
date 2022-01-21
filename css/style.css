@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Sen:wght@400;700;800&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Sen", sans-serif;
+}
+
+.navbar-nav {
+    margin-left: 1.5rem;
+    padding-top: 0.5rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    margin-left: 0.8rem;
+    font-weight: 400;
+    font-size: 20px;
+    color: rgb(115 122 145 / 59%);
+}
+
+#gallery-btn {
+    color: white;
+    border: 1.8px solid white;
+    border-radius: 12px;
+}
+
+#gallery-btn:hover {
+    transform: scale(1.01);
+}
+
+.fas {
+    text-shadow: -1px 1.2px 1px rgb(179, 177, 177);
+}
+
+
+/* Gallery Header */
+.gray-element {
+    height: 100vh;
+    height: 200px;
+    background-image: url('../Images/cover.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+/* FOOTER*/
+.row h6 {
+    text-shadow: -1px 1.2px 1px #000;
+}
+
+.row a {
+    text-decoration: none;
+}
+
+#social {
+    padding-top: 10px;
+}
+
+#social a {
+    margin: 0 10px;
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+    border: 1px solid #fff;
+    border-radius: 100px;
+    text-align: center;
+    color: #fff;
+}
+
+#social i {
+    padding: 18px;
+    font-size: 20px;
+    position: relative;
+}
+
+#social i:hover,
+#social a:hover {
+    transform: scale(1.1);
+}
+

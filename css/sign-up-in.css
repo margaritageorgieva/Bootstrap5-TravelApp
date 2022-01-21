@@ -1,0 +1,12 @@
+.container{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto; }
+  
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+  }

@@ -1,0 +1,133 @@
+/* features */
+
+.features {
+    padding: 70px 0 50px 0;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.feature-box {
+    box-shadow: 0 1px 2px 1px rgba(58, 59, 60, 0.15);
+    margin-bottom: 30px;
+}
+
+.feature-img img {
+    width: 100%;
+    height: 220px;
+}
+
+.price {
+    width: 55px;
+    height: 54px;
+    background: #ff5722;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0 0 10px 1px rgba(37, 73, 214, 0.18);
+    position: absolute;
+    left: 20px;
+    bottom: -25px;
+}
+
+.price p {
+    margin-top: 4px;
+}
+
+.feature-img {
+    position: relative;
+}
+
+.rating {
+    padding: 3px;
+    float: right;
+    background: transparent;
+    position: absolute;
+    right: 0;
+    margin-right: 5px;
+}
+
+.features .fa {
+    font-size: 15px;
+    color: #ff5722;
+}
+
+.fa-map-marker, .fa-sun-o, .fa-moon-o {
+    margin-right: 0px;
+}
+
+.feature-details {
+    padding: 20px;
+    text-align: justify;
+}
+
+.feature-details h4 {
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.feature-details span {
+    margin-right: 8px;
+}
+
+.booking-btn {
+    display: flex;
+    width: fit-content;
+    margin: 0 auto;
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.booking-btn a {
+    color: #FF5722;
+    outline: none !important;
+    text-decoration: none;
+    font-weight: 400;
+    border: 1px solid #FF5722;
+    padding: 5px 30px;
+    border-radius: 40px;
+    filter: drop-shadow(2px 3px 1.5px rgba(145, 143, 143, 0.7));
+}
+
+.booking-btn:hover {
+    transform: scale(1.05);
+}
+
+.pointer {cursor: pointer;}
+
+
+/*BANNER*/
+.banner {
+    height: 500px;
+    background-image: url('../Images/beach.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 10%;
+    margin-bottom: 80px;
+}
+
+.banner-highlights {
+    padding: 70px 0;
+    background: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    color: #fff;
+}
+
+.banner-btn {
+    padding: 4px 15px 4px 15px;
+    outline: none !important;
+    border: 2px solid #fff;
+    border-radius: 40px;
+    background: transparent;
+    color: #fff;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+.banner-btn:hover {
+    transform: scale(1.01);
+}
