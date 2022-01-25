@@ -40,7 +40,7 @@ function signIn(e) {
   if (!exist) {
     alert("Incorrect login credentials!");
   } else {
-    location.href = "/";
+    location.href = "./index.html";
   }
   e.preventDefault();
 }
