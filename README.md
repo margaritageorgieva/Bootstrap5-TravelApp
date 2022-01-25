@@ -11,6 +11,7 @@ Provides a gallery of different destinations and information about them, as well
 ### Features:
 - Sign Up and Sign In forms
 - Stored the user credentials in Local Storage
+- Display user information in their profile
 - Using Flexbox and GRID system
 - Dynamic styling with CSS and JavaScript
 
