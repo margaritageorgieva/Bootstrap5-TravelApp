@@ -29,6 +29,7 @@ Provides a gallery of different destinations and information about them, as well
 <hr width=70%>
 <img src="https://user-images.githubusercontent.com/44364396/150650763-fd179ff2-6576-475b-af84-14c351ab80c9.png" width=70% height=40%>
 
+
 #### 🔗 Live demo:  https://margaritageorgieva.github.io/Bootstrap5-TravelApp/ 
 #### You can also download the zip file and open index.html with Live Server.
 
