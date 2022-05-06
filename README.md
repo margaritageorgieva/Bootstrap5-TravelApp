@@ -13,6 +13,7 @@ Provides a gallery of different destinations and information about them, as well
 - Stored the user credentials in Local Storage
 - Display user information in their profile
 - Using Flexbox and GRID system
+- Responsive design
 - Dynamic styling with CSS and JavaScript
 
 ### Here we have some screenshots  to introduce our application 📸:
