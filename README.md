@@ -9,7 +9,7 @@ Provides a gallery of different destinations and information about them, as well
 - JavaScript
 
 ### Features:
-- Sign Up and Sign In forms
+- Registration and Login
 - Stored the user credentials in Local Storage
 - Display user information in their profile
 - Using Flexbox and GRID system
